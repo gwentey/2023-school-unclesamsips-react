@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Franklin";   
+    src: local("FRAHVIT"),
+      url("../../../assets/fonts/FRAHVIT.TTF");
+}
+h1 {
+    font-family: "Franklin";
+    padding: 0.5em;
+}

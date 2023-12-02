@@ -1,0 +1,12 @@
+.yellow-police {
+    color: #FFDF2B;
+    text-transform: uppercase;
+}
+
+.dropdown-menu.show {
+    margin-left: -100px;
+  }
+  
+  .dropdown-toggle::after {
+    display: none!important;
+  }

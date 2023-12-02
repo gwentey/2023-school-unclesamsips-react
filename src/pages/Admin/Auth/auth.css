@@ -1,0 +1,15 @@
+form {
+    width: 18%;
+}
+
+.group {
+    margin-bottom: 15px;
+}
+
+label { 
+    display: block;
+}
+
+.connexion{
+    width: 100%;
+}

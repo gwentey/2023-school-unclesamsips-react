@@ -1,0 +1,22 @@
+.search-bar {
+    color: #FFDF2B;
+    font-family: Nunito, sans-serif;
+    font-size: 20px;
+    width: 50%;
+    line-height: 1;
+    padding: 10px; 
+    border: 2px solid #FFDF2B; 
+    border-radius: 5px; 
+    transition: border-color 0.3s ease; 
+  }
+  
+  .search-bar[type="text"]::placeholder {
+    color: #8d8d8d;
+    font-style: italic; 
+  }
+
+  .search-bar:focus {
+    outline: none; 
+    border-color: #FF9232; 
+  }
+  
